@@ -66,7 +66,7 @@ helm install insights \
 	kubernetes-scanner/kubernetes-scanner
 ```
 
-Run `kubectl get pods` to verify the pod is running.
+Run `kubectl get pods` to verify the pod is running..
 
 ## Step 2: Scan and Tag Container projects
 
