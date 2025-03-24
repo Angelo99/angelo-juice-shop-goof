@@ -1,10 +1,10 @@
-name: Snyk Full Platform
+name: Snyk Scans
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
 
